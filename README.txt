@@ -1,9 +1,10 @@
-========================================================================
+
 CUSTOMER CHURN PREDICTION SYSTEM
 ========================================================================
 Developed for: Teyzix Core Machine Learning Internship  
 Domain: Machine Learning 
 Project Status: Completed
+Live Link: https://customer-churn-prediction-system-nqg2wr94tftck9v5rag7dc.streamlit.app
 
 PROJECT OVERVIEW
 ------------------------------------------------------------------------
